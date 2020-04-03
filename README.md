@@ -34,6 +34,24 @@
  <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/azi.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp; 
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/az1.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp; 
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/naz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+ 
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/qaz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/gaz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/live.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/taz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/ant.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/tmb.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/saz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/haz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+<br>
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://oneliketv.net/images/amedia-hit.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/nat-geo-wild.html"><img src="http://oneliketv.net/images/nat-geo-wild.png" title="Nat Geo Wild смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/match-boets.html"><img src="http://oneliketv.net/images/matchboets.png" alt="Матч Боец смотреть онлайн" title="Матч Боец смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
