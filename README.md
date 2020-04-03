@@ -1,4 +1,16 @@
 <body style="background-color:#333333">
+<!-- <block12> -->
+<div class="sidebox"><div class="sidetitle"><span><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></span></div>
+                    <div class="inner">
+                    <!-- <bc> --><!--<s1546>--><ul>
+<li><a href="https://blog.ucoz.ru/" target="_blank" rel="noopener nofollow">Официальный блог</a></li>
+<li><a href="https://forum.ucoz.ru/" target="_blank" rel="noopener nofollow">Сообщество uCoz</a></li>
+<li><a href="https://www.ucoz.ru/help/" target="_blank" rel="noopener nofollow">База знаний uCoz</a></li>
+</ul><!--</s>--><!-- </bc> -->
+                    </div>
+          <div class="clr"></div>
+          </div>
+<!-- </block12> -->
 <td></td>
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/xtv.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/raz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
