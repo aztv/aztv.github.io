@@ -1,9 +1,6 @@
-<header>
- <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
-<div class="wrapper">
+<div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
 
-
-
+<div id="footer">
 <div id="soc-box5">
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-home" ></i></a>
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-gamepad " ></i></a>
