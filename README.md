@@ -1,4 +1,4 @@
-<div class="wrapper">
+<div id="footer">
 <div id="site-logo"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/azott.png" align="left" border="0" /></a><!-- </logo> --></div>
 <div class="footer"></div>
 </div>
