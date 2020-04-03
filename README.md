@@ -1,6 +1,7 @@
 <header>
 <div id="footer">
 <div id="site-logo"><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/azott.png" align="center" border="0" /></a></div>
+<br>
 # Evdə qal # Saglam qal #
 </div>
 &nbsp;
