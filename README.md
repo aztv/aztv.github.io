@@ -1,7 +1,8 @@
+<header>
 <div id="footer">
 <div id="site-logo"><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/azott.png" align="center" border="0" /></a></div>
 </div>
-
+&nbsp;
 
 <td></td>
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/xtv.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
