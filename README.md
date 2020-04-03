@@ -209,3 +209,22 @@
 <td><a href="http://oneliketv.net/world-fashion.html"><img src="http://oneliketv.net/images/world-fashion.png" alt="World Fashion смотреть онлайн" title="World Fashion смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/zoom.html"><img src="http://oneliketv.net/images/zoom.png" alt="Zoom смотреть онлайн" title="Zoom смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
 <td></td>
+<footer>
+ <div id="footer">
+ <div class="wrapper">
+ <div class="foot-r">
+ <div id="soc-box">
+ <?if($RSS_LINK$)?><a href="$RSS_LINK$" class="rss" target="_blank"></a><?endif?>
+ <a title="Мой Facebook" href="https://www.facebook.com/" class="fc" target="_blank"></a>
+ <a title="Мой Twitter" href="https://twitter.com/" class="tw" target="_blank"></a>
+ <a title="Мой Flickr" href="http://www.flickr.com/" class="fl" target="_blank"></a>
+ <a title="Мой Vimeo" href="https://vimeo.com/" class="vk" target="_blank"></a>
+ </div>
+ </div>
+ <div class="foot-l">
+ <!-- <copy> -->AZOTT TV &copy; $YEAR$<!-- </copy> -->. $POWERED_BY$
+ </div>
+ <div class="clr"></div>
+ </div>
+ </div>
+</footer>
