@@ -1,8 +1,7 @@
 <header>
  <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
- </div>
-<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
-<div class="clr"></div>
+
+
 
 
 <div id="soc-box5">
@@ -16,7 +15,6 @@
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-plus" ></i></a>
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-sign-in" ></i></a>
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-steam " ></i></a>
-
 </div>
 
 <td></td>
