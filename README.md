@@ -1,7 +1,7 @@
 <header>
 <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/azott.png" align="left" border="0" /></a><!-- </logo> --></span></span></div>
 <div class="footer"></div>
-
+</header>
 
 
 <td></td>
@@ -214,7 +214,7 @@
 <td><a href="http://oneliketv.net/world-fashion.html"><img src="http://oneliketv.net/images/world-fashion.png" alt="World Fashion смотреть онлайн" title="World Fashion смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/zoom.html"><img src="http://oneliketv.net/images/zoom.png" alt="Zoom смотреть онлайн" title="Zoom смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="95" height="95"></a></td>&nbsp;
 <td></td>
-</header>
+
 
 <footer>
  <div id="footer">
