@@ -1,20 +1,5 @@
 <header>
 <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
-
-<div id="footer">
-<div id="soc-box5">
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-home" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-gamepad " ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-comment" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-cloud-download" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-star" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-gamepad " ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-cog" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-plus" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-sign-in" ></i></a>
-<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-steam " ></i></a>
-</div>
-</div>
 </header>
 
 <td></td>
