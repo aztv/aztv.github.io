@@ -1,23 +1,10 @@
 <header>
- <div id="header">
- <div id="head-t">
- <div class="wrapper">
- <div class="head-l">
  <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
  </div>
- <meta property="og:title" content="Заголовок" />
- <meta property="og:description" content="Описание" />
- <meta property="og:url" content="http://csoptima.clan.su" />
- <meta property="og:image" content="http://csoptima.clan.su/optima.jpg" />
-
- <meta name="title" content="Заголовок" />
- <meta name="description" content="Описание" />
- <link rel="image_src" href="http://csoptima.clan.su/optima.jpg" />
-
 <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
 <div class="clr"></div>
-</div>
-<div class="wrapper">
+
+
 <div id="soc-box5">
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-home" ></i></a>
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-gamepad " ></i></a>
@@ -29,10 +16,8 @@
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-plus" ></i></a>
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-sign-in" ></i></a>
 <a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-steam " ></i></a>
-<div class="clr"></div>
+
 </div>
-</div>
-<div class="footer"></div>
 
 <td></td>
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/xtv.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
