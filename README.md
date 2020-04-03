@@ -1,5 +1,5 @@
 <header>
-<div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
+<div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/azott.png" align="left" border="0" /></a><!-- </logo> --></span></span></div>
 <div class="footer"></div>
 
 
