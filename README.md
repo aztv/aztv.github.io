@@ -1,7 +1,4 @@
 <html dir="ltr" lang="ru-ru" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<script type="text/javascript">
-document.oncontextmenu = function (){return false};
-</script>
 <body style="background-color:#333333">
 <td></td>
 <td><a href="http://oneliketv.net/amedia-hit.html"><img style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" src="http://oneliketv.net/images/amedia-hit.png" title="Amedia Hit смотреть онлайн" width="95" height="95"></a></td>&nbsp;
