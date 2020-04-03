@@ -1,7 +1,7 @@
 <html dir="ltr" lang="ru-ru" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <body style="background-color:#333333">
 <td></td>
-<td><a href="http://oneliketv.net/amedia-hit.html"><img style="border: 1px solid rgb(88, 88, 88); box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" src="http://tr.at.ua/az/xtv.png" title="Amedia Hit смотреть онлайн" width="95" height="95"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img style="border: 1px solid rgb(88, 88, 88); background-color: #212121; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" src="http://tr.at.ua/az/xtv.png" title="Amedia Hit смотреть онлайн" width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/nat-geo-wild.html"><img style="border: 1px solid rgb(88, 88, 88); box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" src="http://oneliketv.net/images/nat-geo-wild.png" border="0" alt="Nat Geo Wild смотреть онлайн" title="Nat Geo Wild смотреть онлайн" width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/match-boets.html"><img style="border: 1px solid rgb(88, 88, 88); box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" src="http://oneliketv.net/images/matchboets.png" border="0" alt="Матч Боец смотреть онлайн" title="Матч Боец смотреть онлайн" width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/fox.html"><img style="border: 1px solid rgb(88, 88, 88); box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" src="http://oneliketv.net/images/fox.png" border="0" alt="FOX смотреть онлайн" title="FOX смотреть онлайн" width="95" height="95"></a></td>&nbsp;
