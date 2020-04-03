@@ -1,4 +1,44 @@
 <body style="background-color:#333333">
+<header>
+ <div id="header">
+ <div id="head-t">
+ <div class="wrapper">
+ <div class="head-l">
+ <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/logo.png" width="100%" align="left" border="0" /></a><!-- </logo> --></span></span></div>
+ </div>
+ <meta property="og:title" content="Заголовок" />
+ <meta property="og:description" content="Описание" />
+ <meta property="og:url" content="http://csoptima.clan.su" />
+ <meta property="og:image" content="http://csoptima.clan.su/optima.jpg" />
+
+ <meta name="title" content="Заголовок" />
+ <meta name="description" content="Описание" />
+ <link rel="image_src" href="http://csoptima.clan.su/optima.jpg" />
+
+<script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+<div class="clr"></div>
+ </div>
+ <nav>
+<div class="wrapper">
+<div id="soc-box5">
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-home" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-gamepad " ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-comment" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-cloud-download" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-star" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-gamepad " ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-cog" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-plus" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-sign-in" ></i></a>
+<a a title="Скачать c Сайта" href="" class="button5" awesome ><i class="fa fa-steam " ></i></a>
+<div class="clr"></div>
+</div>
+</nav>
+ </div>
+<div class="footer"></div>
+
+ </header>
+
 <!-- <block12> -->
 <div class="sidebox"><div class="sidetitle"><span><!-- <bt> --><!--<s5204>-->Друзья сайта<!--</s>--><!-- </bt> --></span></div>
                     <div class="inner">
