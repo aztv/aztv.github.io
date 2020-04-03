@@ -1,4 +1,3 @@
-<html dir="ltr" lang="ru-ru" style="height: auto;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <body style="background-color:#333333">
 <td></td>
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://oneliketv.net/images/amedia-hit.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" background-color: #000000; width="95" height="95"></a></td>&nbsp;
@@ -183,4 +182,4 @@
 <td><a href="http://oneliketv.net/world-fashion.html"><img src="http://oneliketv.net/images/world-fashion.png" alt="World Fashion смотреть онлайн" title="World Fashion смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" background-color: #000000; width="95" height="95"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/zoom.html"><img src="http://oneliketv.net/images/zoom.png" alt="Zoom смотреть онлайн" title="Zoom смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 4px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;" background-color: #000000; width="95" height="95"></a></td>&nbsp;
 <td></td>
-</body></html>
+
