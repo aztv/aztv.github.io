@@ -1,7 +1,7 @@
-<header>
+
 <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/_tbkp/tv.html"><img src="http://tr.at.ua/_tbkp/azott.png" align="left" border="0" /></a><!-- </logo> --></span></span></div>
 <div class="footer"></div>
-</header>
+
 
 
 <td></td>
