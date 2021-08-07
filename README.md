@@ -239,16 +239,7 @@
 <footer>
  <div id="footer">
  <div class="wrapper">
- <div class="foot-r">
- <div id="soc-box">
- <?if($RSS_LINK$)?><a href="$RSS_LINK$" class="rss" target="_blank"></a><?endif?>
- <a title="Мой Facebook" href="https://www.facebook.com/" class="fc" target="_blank"></a>
- <a title="Мой Twitter" href="https://twitter.com/" class="tw" target="_blank"></a>
- <a title="Мой Flickr" href="http://www.flickr.com/" class="fl" target="_blank"></a>
- <a title="Мой Vimeo" href="https://vimeo.com/" class="vk" target="_blank"></a>
- </div>
- </div>
- <div class="foot-l">
+<div class="foot-l">
  <!-- <copy> -->AZOTT TV &copy; 2020<!-- </copy> -->.
  </div>
  <div class="clr"></div>
