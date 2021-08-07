@@ -7,7 +7,7 @@
 &nbsp;
 <br>
 <td></td>
-<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/xtv.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
+<td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tv.ontivi.net/img/shokirujuschee.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/raz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/itv.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
 <td><a href="http://oneliketv.net/amedia-hit.html"><img src="http://tr.at.ua/az/laz.png" title="Amedia Hit смотреть онлайн" style="border: 1px solid rgb(88, 88, 88); padding: 8px; box-shadow: 1px 1px 1px 1px #101010; border-radius: 2px;background-color: #000000;"  width="64" height="64"></a></td>&nbsp;
