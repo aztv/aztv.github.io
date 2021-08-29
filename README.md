@@ -4,7 +4,7 @@
 <link href="http://tr.at.ua/_tbkp/btn.css" type="text/css" rel="stylesheet">
 </head>
 
-<body>
+
 <div id="utbr8214" rel="s29"></div>
 <!--U1AHEADER1Z--><header>
  <div id="header">
@@ -49,7 +49,6 @@
 
 
  <section class="module-index">
- <!--  <body> -->
 
 <a target="_blank" href="http://tr.at.ua/player/player.html?streams=http://185.161.224.210/dash/NSTV_SD.ism/playlist.mpd"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
@@ -92,7 +91,7 @@
 </div></a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
  
 </div></a><a href="http://tv.ontivi.net/open?kes=900c2bfb2a7278e97f21bdeab0c92b32FF219"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd.png"><span>Хит HD</span>
-<!-- </body> -->
+
 </section>
 
  
@@ -102,7 +101,7 @@
 
 
  
- <!-- </middle> -->
+
 
  </div>
  </aside>
@@ -126,4 +125,3 @@
  </div>
  </div>
 </footer>
-</body>
