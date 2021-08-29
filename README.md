@@ -1,4 +1,3 @@
-<html id="root">
 <head>
 <meta charset="utf-8">
 <link rel="stylesheet" href="http://tr.at.ua/_tbkp/my.css" type="text/css" media="all">
@@ -12,7 +11,7 @@
  <div id="head-t">
  <div class="wrapper">
  <div class="head-l">
- <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/index/0-6"><img src="http://tr.at.ua/_tbkp/logo.png" width="50%" align="left" border="0"></a><!-- </logo> --></span></span></div>
+ <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href=""><img src="http://tr.at.ua/_tbkp/logo.png" width="50%" align="left" border="0"></a><!-- </logo> --></span></span></div>
  </div>
 
 <div id="soc-box5" style="float: right;">
@@ -21,26 +20,10 @@
 <a a="" title="WhatsApp " href="http://tr.at.ua/" class="button5" wa="" awesome="" data-wa=""></a>&nbsp;&nbsp;
 </div> 
  
- 
- 
- 
- 
- 
- 
-<meta property="og:title" content="Заголовок">
- <meta property="og:description" content="Описание">
- <meta property="og:url" content="http://csoptima.clan.su">
- <meta property="og:image" content="http://csoptima.clan.su/optima.jpg">
-
- <meta name="title" content="Заголовок">
- <meta name="description" content="Описание">
- <link rel="image_src" href="http://csoptima.clan.su/optima.jpg">
 
 
  
- 
-<div class="clr"></div>
- </div>
+
 
 
 
@@ -63,7 +46,7 @@
  <div id="cont-box">
 
  
- <!-- <middle> -->
+
 
  <section class="module-index">
  <!--  <body> -->
