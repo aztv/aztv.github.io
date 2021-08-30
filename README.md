@@ -1,5 +1,15 @@
 <html id="root">
 
+ <meta property="og:title" content="Заголовок">
+ <meta property="og:description" content="Описание">
+ <meta property="og:url" content="http://csoptima.clan.su">
+ <meta property="og:image" content="http://csoptima.clan.su/optima.jpg">
+
+ <meta name="title" content="Заголовок">
+ <meta name="description" content="Описание">
+ <link rel="image_src" href="http://csoptima.clan.su/optima.jpg">
+ 
+ 
  
  <body>
 <div id="utbr8214" rel="s29"></div>
@@ -23,14 +33,7 @@
  
  
  
-<meta property="og:title" content="Заголовок">
- <meta property="og:description" content="Описание">
- <meta property="og:url" content="http://csoptima.clan.su">
- <meta property="og:image" content="http://csoptima.clan.su/optima.jpg">
 
- <meta name="title" content="Заголовок">
- <meta name="description" content="Описание">
- <link rel="image_src" href="http://csoptima.clan.su/optima.jpg">
 
 
  
