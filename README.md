@@ -1,9 +1,33 @@
 <html id="root">
 
+<head>
 <meta charset="utf-8">
+<link rel="stylesheet" href="http://tr.at.ua/_tbkp/my.css" type="text/css" media="all">
+<link href="http://tr.at.ua/_tbkp/btn.css" type="text/css" rel="stylesheet">
 
-<link rel="stylesheet" href="/my.css" type="text/css" media="all">
-<link href="/btn.css" type="text/css" rel="stylesheet">
+
+<meta property="og:title" content="Заголовок" />
+ <meta property="og:description" content="Описание" />
+ <meta property="og:url" content="http://tr.at.ua" />
+<meta property="og:image" content="http://tr.at.ua/_tbkp/azott.png" />
+<meta property="og:image:secure_url" content="http://tr.at.ua/_tbkp/azott.png" />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="400" />
+<meta property="og:image:height" content="300" />
+<meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
+
+<meta property="og:type" content="website" />
+
+
+ <meta name="title" content="Заголовок" />
+ <meta name="description" content="Описание" />
+ <link rel="image_src" href="http://tr.at.ua/_tbkp/azott.png" />
+
+
+
+
+
+</head>
 <body>
 <div id="utbr8214" rel="s29"></div>
 <!--U1AHEADER1Z--><header>
