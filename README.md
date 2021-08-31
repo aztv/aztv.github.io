@@ -121,13 +121,10 @@
  <div class="wrapper">
  
  <div class="foot-l">
- <!-- <copy> -->AZOTT TV © 2021<!-- </copy> -->. <!-- "' --><span class="pb_D75Bn"><a href="https://www.ucoz.ru/"><img style="width:80px; height:15px;" src="/20.gif" alt=""></a></span>
+ <!-- <copy> -->AZOTT TV © 2021<!-- </copy> -->. <!-- "' -->
  </div>
  <div class="clr"></div>
  </div>
  </div>
-</footer><!--/U1BFOOTER1Z-->
-<script type="text/javascript" src="/ui.js"></script>
+</footer>
 
-
-<!-- 0.3141060 (s29) --></body>
