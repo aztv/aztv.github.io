@@ -1,11 +1,7 @@
 <html id="root">
-<head>
-<meta property="og:title" content="PimpleTV.ru | Просмотр спортивных матчей по футболу и хоккею онлайн" />
-<meta property="og:description" content="Просмотр футбольных и хоккейных трансляций матчей онлайн в прямом эфире в HD качестве и с использованием SopCast. Делайте ставки, основываясь на мнениях и прогнозах лучших опытных спортивных экспертов." />
-<meta property="og:image" content="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.pimpletv.ru" />
-<head>
+
+
+
  
  
 <body>
@@ -15,6 +11,13 @@
  <div id="head-t">
  <div class="wrapper">
  <div class="head-l">
+
+<meta property="og:title" content="PimpleTV.ru | Просмотр спортивных матчей по футболу и хоккею онлайн" />
+<meta property="og:description" content="Просмотр футбольных и хоккейных трансляций матчей онлайн в прямом эфире в HD качестве и с использованием SopCast. Делайте ставки, основываясь на мнениях и прогнозах лучших опытных спортивных экспертов." />
+<meta property="og:image" content="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.pimpletv.ru" />
+
  <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/index/0-6"><img src="http://tr.at.ua/_tbkp/logo.png" width="50%" align="left" border="0"></a><!-- </logo> --></span></span></div>
  </div>
 
