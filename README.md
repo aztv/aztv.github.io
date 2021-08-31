@@ -1,13 +1,18 @@
+<!DOCTYPE html>
 <html id="root">
 <head>
+<meta charset="utf-8">
+<link rel="stylesheet" href="http://tr.at.ua/_tbkp/my.css" type="text/css" media="all">
+<link href="http://tr.at.ua/_tbkp/btn.css" type="text/css" rel="stylesheet">
 
-
- <meta property="og:title" content="PimpleTV.ru | Просмотр спортивных матчей по футболу и хоккею онлайн" />
+<meta property="og:title" content="PimpleTV.ru | Просмотр спортивных матчей по футболу и хоккею онлайн" />
 <meta property="og:description" content="Просмотр футбольных и хоккейных трансляций матчей онлайн в прямом эфире в HD качестве и с использованием SopCast. Делайте ставки, основываясь на мнениях и прогнозах лучших опытных спортивных экспертов." />
 <meta property="og:image" content="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://www.pimpletv.ru" />
- 
+
+</head>
+
 <body>
 <div id="utbr8214" rel="s29"></div>
 <!--U1AHEADER1Z--><header>
@@ -15,9 +20,6 @@
  <div id="head-t">
  <div class="wrapper">
  <div class="head-l">
-
-
-
  <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/index/0-6"><img src="http://tr.at.ua/_tbkp/logo.png" width="50%" align="left" border="0"></a><!-- </logo> --></span></span></div>
  </div>
 
@@ -28,12 +30,6 @@
 </div> 
  
  
- 
- 
- 
- 
- 
-
 
 
  
@@ -65,9 +61,6 @@
  <!-- <middle> -->
 
  <section class="module-index">
-  
-  
-</head>
  <!--  <body> -->
 
 <a target="_blank" href="http://tr.at.ua/player/player.html?streams=http://185.161.224.210/dash/NSTV_SD.ism/playlist.mpd"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
@@ -148,7 +141,4 @@
 <script type="text/javascript" src="/ui.js"></script>
 
 
-<!-- 0.3141060 (s29) --></body>
- 
- 
-</html>
+<!-- 0.3141060 (s29) --></body></html>
