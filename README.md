@@ -1,14 +1,7 @@
-<!DOCTYPE html>
-<html id="root">
-<head>
 <meta charset="utf-8">
+
 <link rel="stylesheet" href="http://tr.at.ua/_tbkp/my.css" type="text/css" media="all">
 <link href="http://tr.at.ua/_tbkp/btn.css" type="text/css" rel="stylesheet">
-
-
-
-</head>
-
 <body>
 <div id="utbr8214" rel="s29"></div>
 <!--U1AHEADER1Z--><header>
@@ -137,4 +130,4 @@
 <script type="text/javascript" src="/ui.js"></script>
 
 
-<!-- 0.3141060 (s29) --></body></html>
+<!-- 0.3141060 (s29) --></body>
