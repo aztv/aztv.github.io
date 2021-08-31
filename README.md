@@ -1,17 +1,14 @@
 <html id="root">
-
- <meta property="og:title" content="Заголовок">
- <meta property="og:description" content="Описание">
- <meta property="og:url" content="http://csoptima.clan.su">
- <meta property="og:image" content="http://csoptima.clan.su/optima.jpg">
-
- <meta name="title" content="Заголовок">
- <meta name="description" content="Описание">
- <link rel="image_src" href="http://csoptima.clan.su/optima.jpg">
+<head>
+<meta property="og:title" content="PimpleTV.ru | Просмотр спортивных матчей по футболу и хоккею онлайн" />
+<meta property="og:description" content="Просмотр футбольных и хоккейных трансляций матчей онлайн в прямом эфире в HD качестве и с использованием SopCast. Делайте ставки, основываясь на мнениях и прогнозах лучших опытных спортивных экспертов." />
+<meta property="og:image" content="https://www.pimpletv.ru/wp-content/uploads/img/snippet_pimple_tv.png" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://www.pimpletv.ru" />
+<head>
  
  
- 
- <body>
+<body>
 <div id="utbr8214" rel="s29"></div>
 <!--U1AHEADER1Z--><header>
  <div id="header">
