@@ -88,11 +88,11 @@
  
 </div></a><a href="http://tv.ontivi.net/open?kes=32dda74be933ccf3b23129ff7051718eFF216"><div class="btn" title="Страшное HD"><img src="http://tv.ontivi.net/img/strashnoe-hd.png"><span>Страшное</span>
  
-</div></a><a href="http://tv.ontivi.net/open?kes=f64907dce4c125077e4c0dd7108ce9cbFF170"><div class="btn" title="Кинокомедийное HD"><img src="http://tv.ontivi.net/img/komedijnoe-hd.png"><span>Кинокомедия</span>
+</a><a href="http://tv.ontivi.net/open?kes=f64907dce4c125077e4c0dd7108ce9cbFF170"><div class="btn" title="Кинокомедийное HD"><img src="http://tv.ontivi.net/img/komedijnoe-hd.png"><span>Кинокомедия</span>
  
-</div></a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
+</a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
  
-</div></a><a href="http://tv.ontivi.net/open?kes=900c2bfb2a7278e97f21bdeab0c92b32FF219"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd.png"><span>Хит HD</span>
+</a><a href="http://tv.ontivi.net/open?kes=900c2bfb2a7278e97f21bdeab0c92b32FF219"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd.png"><span>Хит HD</span>
 
 </section>
 
