@@ -52,7 +52,7 @@
  <section class="module-index">
 
 
-<a target="_blank" href="http://tr.at.ua/player/player.html?streams=http://185.161.224.210/dash/NSTV_SD.ism/playlist.mpd"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
+</div><a target="_blank" href="http://tr.at.ua/player/player.html?streams=http://185.161.224.210/dash/NSTV_SD.ism/playlist.mpd"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
 </a><a href="http://tr.at.ua/player/00.html?file=http://tr.at.ua/player/blokbaster.m3u8"><div class="btn" title="Остросюжетное HD"><img src="http://tv.ontivi.net/img/ostrosjuzhetnoe.png"><span>Остросюжетное</span>
  
