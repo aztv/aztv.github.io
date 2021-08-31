@@ -92,7 +92,7 @@
  
 </a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
  
-</a><a href="http://tv.ontivi.net/open?kes=900c2bfb2a7278e97f21bdeab0c92b32FF219"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd.png"><span>Хит HD</span>
+</div></a><a href="http://tv.ontivi.net/open?kes=900c2bfb2a7278e97f21bdeab0c92b32FF219"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd.png"><span>Хит HD</span>
 
 </section>
 
