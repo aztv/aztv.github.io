@@ -1,3 +1,5 @@
+<html id="root">
+
 <meta charset="utf-8">
 
 <link rel="stylesheet" href="/my.css" type="text/css" media="all">
