@@ -84,7 +84,7 @@ window.addEventListener("load",function() {
  <section class="module-index">
  <body>
 
-<a href="http://tr.at.ua/player/00.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
+<a id=123 href="http://tr.at.ua/player/00.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
 </div></a><a href="http://tr.at.ua/player/00.html?file=https://m.youtube.com/watch?v=hR-1QGMK75c"><div class="btn" title="Служебный роман"><img src="http://tv.ontivi.net/img/ostrosjuzhetnoe.png"><span>Служебный роман</span>
  
