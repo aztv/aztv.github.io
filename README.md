@@ -78,7 +78,7 @@
  <section class="module-index">
 
 
-</div><a href="player.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
+</div><a href="//player.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
 </a><a href="http://tr.at.ua/player/00.html?file=http://tr.at.ua/player/blokbaster.m3u8"><div class="btn" title="Остросюжетное HD"><img src="http://tv.ontivi.net/img/ostrosjuzhetnoe.png"><span>Остросюжетное</span>
  
