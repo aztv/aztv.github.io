@@ -2,8 +2,8 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="http://tr.at.ua/_tbkp/myazott.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://tr.at.ua/_tbkp/btn.css" type="text/css" media="all">
+<link rel="stylesheet" href="myazott.css" type="text/css" media="all">
+<link rel="stylesheet" href="btn.css" type="text/css" media="all">
 <meta name="viewport" content="width=1280">
 <script>
 window.addEventListener("load",function() {
