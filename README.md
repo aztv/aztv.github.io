@@ -2,8 +2,17 @@
 
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="http://tr.at.ua/_tbkp/my.css" type="text/css" media="all">
-<link href="http://tr.at.ua/_tbkp/btn.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="http://tr.at.ua/_tbkp/myazott.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://tr.at.ua/_tbkp/btn.css" type="text/css" media="all">
+<meta name="viewport" content="width=1280">
+<script>
+window.addEventListener("load",function() {
+    setTimeout(function(){
+        // This hides the address bar:
+        window.scrollTo(0);
+    }, 0);
+});
+</script>
 
 
 <meta property="og:title" content="Заголовок" />
