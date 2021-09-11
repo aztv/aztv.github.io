@@ -1,10 +1,18 @@
-<html id="root">
-
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="myazott.css" type="text/css" media="all">
-<link rel="stylesheet" href="btn.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://tr.at.ua/_tbkp/myazott.css" type="text/css" media="all">
+<link rel="stylesheet" href="http://tr.at.ua/_tbkp/btn.css" type="text/css" media="all">
 <meta name="viewport" content="width=1280">
+<script>
+window.addEventListener("load",function() {
+    setTimeout(function(){
+        // This hides the address bar:
+        window.scrollTo(0);
+    }, 0);
+});
+</script>
+
+
 
 <meta property="og:title" content="Заголовок" />
 <meta property="og:description" content="Описание" />
@@ -75,7 +83,7 @@
  <section class="module-index">
  <body>
 
-<a id=123 href="Безымянный 1.png"><div class="btn"><img src="Безымянный 1.png"><span>Шокирующее</span>
+<a href="http://tr.at.ua/player/00.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
 </div></a><a href="http://tr.at.ua/player/00.html?file=https://m.youtube.com/watch?v=hR-1QGMK75c"><div class="btn" title="Служебный роман"><img src="http://tv.ontivi.net/img/ostrosjuzhetnoe.png"><span>Служебный роман</span>
  
@@ -159,4 +167,3 @@
 
 
 </body>
-</html>
