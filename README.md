@@ -67,7 +67,7 @@
  <middle>
 
  <section class="module-index">
-
+ <body>
 
 <a href="http://tr.at.ua/player/00.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
@@ -132,7 +132,7 @@
 </div></a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
  
 </div></a><a href="https://t.me/hdrezka"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd0.png"><span>Хит HD</span>
-
+</body>
 
 
 </section>
