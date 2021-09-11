@@ -127,7 +127,8 @@
  
 </div></a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
  
-</div></a><a href="https://t.me/hdrezka"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd0.png"><span>Хит HD</span>
+</div></a><a href="http://tv.ontivi.net/open?kes=718e55158fe54fdef6710f3f004234b0FF134"><div class="btn" title="Премиальное HD"><img src="http://tv.ontivi.net/img/premialnoe-hd.png"><span>Премиальное</span>
+
 </section>
 </middle>
 
@@ -137,7 +138,8 @@
 
 <div class="clr"></div>
 
-</div></div></div></div></body>
+</div></div></div></div>
 
 
 
+</body>
