@@ -135,7 +135,7 @@
 </body>
 
 
-</section>
+
 
 
  <aside>
@@ -144,12 +144,6 @@
 <div class="clr"></div>
 
 </div>
-</div>
-</div>
-</div>
 
-</middle>
-
-</body>
 
 
