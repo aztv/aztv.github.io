@@ -1,0 +1,9 @@
+.btn{height: 110px;margin-bottom:10px;float:left;width:120px;overflow:hidden;margin-left:10px;text-align:center;border-radius:8px;padding:10px;color:#909090;font-weight:700;word-wrap:break-word;margin-top:0;background:url(http://tr.at.ua/_tbkp/fon.png) 100% 0 repeat #000; position: relative}
+.btn:hover{box-shadow:0 0 24px #FE9900}
+.btn img{width:100px;object-fit:contain;margin-bottom: 7px;}
+.btn h2{margin-top:10px}
+
+
+.btn span {      height: 40px;
+    overflow: hidden;
+    display: block;}

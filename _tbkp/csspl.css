@@ -1,0 +1,40 @@
+body{margin:0;}
+.htm {
+width: 100%!important;
+height: 100%!important;
+}
+.banr {
+	position: fixed;
+    left: 50px;
+    top: 50px;
+    z-index: 2000000005;
+    width: 600px;
+    height: 300px;
+    overflow: visible;
+	display:none;
+	
+	
+}
+.krs {
+	height: 23px;
+    line-height: 23px;
+    width: 23px;
+    visibility: visible;
+    position: absolute;
+    left: -15px;
+    top: -10px;
+    cursor: pointer;
+    z-index: 100500;
+}
+.ban468 {
+    position: fixed;
+    left: 50px;
+    top: 100px;
+    z-index: 2000000005;
+    width: 550px;
+    height: 96px;
+    overflow: visible;
+    background: #ffffff;
+	
+}
+
