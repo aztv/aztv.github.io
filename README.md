@@ -3,17 +3,6 @@
 <link rel="stylesheet" href="http://tr.at.ua/_tbkp/myazott.css" type="text/css" media="all">
 <link rel="stylesheet" href="http://tr.at.ua/_tbkp/btn.css" type="text/css" media="all">
 <meta name="viewport" content="width=1280">
-<script>
-window.addEventListener("load",function() {
-    setTimeout(function(){
-        // This hides the address bar:
-        window.scrollTo(0);
-    }, 0);
-});
-</script>
-
-
-
 <meta property="og:title" content="Заголовок" />
 <meta property="og:description" content="Описание" />
 <meta property="og:url" content="http://tr.at.ua" />
@@ -42,7 +31,8 @@ window.addEventListener("load",function() {
 
 
 <body>
-<header>
+
+ <header>
  <div id="header">
  <div id="head-t">
  <div class="wrapper">
@@ -81,7 +71,7 @@ window.addEventListener("load",function() {
  <middle>
 
  <section class="module-index">
- <body>
+
 
 <a href="http://tr.at.ua/player/00.html?file=http://hls.goodgame.ru/manifest/180960_master.m3u8&poster=0001.png"><div class="btn" title="Шокирующее HD"><img src="http://tv.ontivi.net/img/shokirujuschee.png"><span>Шокирующее</span>
  
@@ -147,17 +137,12 @@ window.addEventListener("load",function() {
  
 </div></a><a href="https://t.me/hdrezka"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd0.png"><span>Хит HD</span>
 
-</body>
+
 
 </section>
 
  
- <aside>
-
- </aside>
- <div class="clr"></div>
- 
- </div>
+</div>
  </div>
  </div>
 </div>
@@ -165,5 +150,5 @@ window.addEventListener("load",function() {
 </middle>
 
 
-
+ <div class="clr"></div>
 </body>
