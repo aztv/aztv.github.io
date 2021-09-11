@@ -141,14 +141,16 @@
 
 </section>
 
- 
-</div>
- </div>
- </div>
-</div>
+ <aside>
 
+ </aside>
+</div>
+ </div>
+ </div>
+</div>
+ <div class="clr"></div>
 </middle>
 
 
- <div class="clr"></div>
+
 </body>
