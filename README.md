@@ -2,7 +2,7 @@
 <meta charset="utf-8">
 <link rel="stylesheet" href="myazott.css" type="text/css" media="all">
 <link rel="stylesheet" href="btn.css" type="text/css" media="all">
-
+<meta name="viewport" content="width=1280">
 <meta property="og:title" content="Заголовок" />
 <meta property="og:description" content="Описание" />
 <meta property="og:url" content="http://tr.at.ua" />
