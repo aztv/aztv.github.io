@@ -131,11 +131,11 @@
 </section>
 </body>
 
-
+</middle>
 
 
 <div class="clr"></div>
-</middle>
+
 </div>
 
 
