@@ -40,8 +40,6 @@
  <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/"><img src="head-l.png" width="240px" align="left" border="0"></a><!-- </logo> --></span></span></div>
 </div>
 
-
-
 <div id="soc-box5" style="float: right;">
 <a a="" title="ВКонтакте" href="http://tr.at.ua/" class="button5" vk="" awesome="" data-vk=""></a>&nbsp;&nbsp;
 <a a="" title="Телеграм " href="http://tr.at.ua/" class="button5" tw="" awesome="" data-te=""></a>&nbsp;&nbsp;
@@ -51,8 +49,6 @@
 <div class="clr"></div>
 </div>
 </div>
-
-
 </div>
 </header>
 
@@ -140,15 +136,20 @@
 
 
 </section>
- <div class="clr"></div>
+
+
+ <aside>
+
+ </aside>
+<div class="clr"></div>
 
 </div>
- </div>
- </div>
+</div>
+</div>
 </div>
 
 </middle>
 
-
+</body>
 
 
