@@ -1,7 +1,7 @@
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="http://tr.at.ua/_tbkp/myazott.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://tr.at.ua/_tbkp/btn.css" type="text/css" media="all">
+<link rel="stylesheet" href="myazott.css" type="text/css" media="all">
+<link rel="stylesheet" href="btn.css" type="text/css" media="all">
 <meta name="viewport" content="width=1280">
 <meta property="og:title" content="Заголовок" />
 <meta property="og:description" content="Описание" />
@@ -37,7 +37,7 @@
  <div id="head-t">
  <div class="wrapper">
  <div class="head-l">
- <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/"><img src="http://tr.at.ua/_tbkp/head-l.png" width="240px" align="left" border="0"></a><!-- </logo> --></span></span></div>
+ <div id="site-logo"><span class="site-l"><span class="site-d"><!-- <logo> --><a href="http://tr.at.ua/"><img src="head-l.png" width="240px" align="left" border="0"></a><!-- </logo> --></span></span></div>
 </div>
 
 
