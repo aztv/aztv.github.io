@@ -129,14 +129,15 @@
  
 </div></a><a href="https://t.me/hdrezka"><div class="btn" title="Хит HD"><img src="http://tv.ontivi.net/img/xit-hd0.png"><span>Хит HD</span>
 </section>
-</body>
-
 </middle>
+
+
+
 
 
 <div class="clr"></div>
 
 </div>
 
-
+ </body>
 
