@@ -62,6 +62,8 @@
 <div id="cas-bg">
 <div class="wrapper">
 <div id="cont-box">
+
+<!-- <middle> -->
 <section class="module-index">
 
 
@@ -134,15 +136,11 @@
  <aside>
 
  </aside>
+          <!-- </middle> -->
  <div class="clr"></div>
  
  </div>
  </div>
  </div>
 </div>
-
-</middle>
-
-
-
 </body>
