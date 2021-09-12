@@ -93,9 +93,9 @@ a.button5:before {
 
 }
 a.button5[image]{display:inline-block;margin:0px 0px 0px 0px;padding:0px;font-size: 2px;}
-a.button5[data-vk]:before {content: url(_tbkp/vk.svg) ; width: 36px; height: 36px;} 
-a.button5[data-te]:before {content: url(_tbkp/te.svg) ; width: 36px; height: 36px;} 
-a.button5[data-wa]:before {content: url(_tbkp/wa.svg) ; width: 36px; height: 36px;} 
+a.button5[data-vk]:before {content: url(vk.svg) ; width: 36px; height: 36px;} 
+a.button5[data-te]:before {content: url(te.svg) ; width: 36px; height: 36px;} 
+a.button5[data-wa]:before {content: url(wa.svg) ; width: 36px; height: 36px;} 
 a.button5:hover {
  background: linear-gradient(#999999, #535353);
  color: rgba(255,255,255,1);
