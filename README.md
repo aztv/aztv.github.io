@@ -136,11 +136,12 @@
  <aside>
 
  </aside>
-          <!-- </middle> -->
- <div class="clr"></div>
+ <!-- </middle> -->
+
  
  </div>
  </div>
  </div>
-</div>
-</body>
+ </div>
+  <div class="clr"></div>
+ </body>
