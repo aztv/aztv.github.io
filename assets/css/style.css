@@ -93,9 +93,9 @@ a.button5:before {
 
 }
 a.button5[image]{display:inline-block;margin:0px 0px 0px 0px;padding:0px;font-size: 2px;}
-a.button5[data-vk]:before {content: url(http://tr.at.ua/_tbkp/vk.svg) ; width: 36px; height: 36px;} 
-a.button5[data-te]:before {content: url(http://tr.at.ua/_tbkp/te.svg) ; width: 36px; height: 36px;} 
-a.button5[data-wa]:before {content: url(http://tr.at.ua/_tbkp/wa.svg) ; width: 36px; height: 36px;} 
+a.button5[data-vk]:before {content: url(vk.svg) ; width: 36px; height: 36px;} 
+a.button5[data-te]:before {content: url(te.svg) ; width: 36px; height: 36px;} 
+a.button5[data-wa]:before {content: url(wa.svg) ; width: 36px; height: 36px;} 
 a.button5:hover {
  background: linear-gradient(#999999, #535353);
  color: rgba(255,255,255,1);
@@ -117,7 +117,7 @@ a.button5:active {
 *{box-sizing:border-box}
 article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
 object,iframe,audio,video,table,embed{max-width:100%}
-body{background:#353535 url(http://tr.at.ua/_tbkp/bg.png);margin:0;padding:0;font-size:14px;font-family:Tahoma,Geneva,sans-serif;color:#cacaca}
+body{background:#353535 url(bg.png);margin:0;padding:0;font-size:14px;font-family:Tahoma,Geneva,sans-serif;color:#cacaca}
 table{font-size:100%}
 img,form{border:0;margin:0}
 a,input{outline:none}
@@ -145,8 +145,8 @@ textarea{resize:none}
 
 
 
-#casing{background:url(http://tr.at.ua/_tbkp/casing.png) 0 0 repeat-x}
-#cas-bg{background:url(http://tr.at.ua/_tbkp/casing.png) 0 0 repeat-x;padding:20px 0}
+#casing{background:url(casing.png) 0 0 repeat-x}
+#cas-bg{background:url(casing.png) 0 0 repeat-x;padding:20px 0}
 #cont-box{background:#444;background:rgba(68,68,68,.7);border:1px solid #555;padding:10px 0px 10px 0px; margin: 0px auto; border-top-left-radius: 0px; border-top-right-radius: 0px;border-bottom-right-radius: 7px; border-bottom-left-radius: 7px}
 #sidebar{float:left;width:26%}
 
