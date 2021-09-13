@@ -124,7 +124,8 @@ a,input{outline:none}
 a{color:#ffc000;text-decoration:none;font-size:13px}
 a:hover{text-decoration:underline}
 input[type="radio"],input[type="checkbox"]{vertical-align:middle}
-h1,h2,h3,h4,h5,h6{font-weight:400;margin:5px 0;padding:0}
+h1{font-weight:100;margin:-8px 0;padding:0}
+h2,h3,h4,h5,h6{font-weight:400;margin:5px 0;padding:0}
 h1{font-size:26px}
 h2{font-size:10px}
 h3{font-size:19px}
