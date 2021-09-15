@@ -25,59 +25,6 @@ window.addEventListener("load",function() {
     
     
     
-<script>   
-   webView.setWebViewClient(new WebViewClient() {
-
-        @Override
-        public boolean shouldOverrideUrlLoading(WebView wv, String url) {
-            if(url.startsWith("tel:") || url.startsWith("whatsapp:") || url.startsWith("intent://") || url.startsWith("http://") ) {
-                Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse(url));
-                startActivity(intent);
-                webView.goBack();
-                return true;
-            }
-            return false;
-        }
-
-        @Override
-        public void onPageStarted(WebView view, String url, Bitmap favicon) {
-            super.onPageStarted(view, url, favicon);
-
-            invalidateOptionsMenu();
-        }
-
-        public void onReceivedError(WebView view, int errorCode,
-                                    String description, String failingUrl) {
-            try {
-                invalidateOptionsMenu();
-            } catch (Exception e) {
-
-            }
-
-            if (webView.canGoBack()) {
-                webView.goBack();
-            }
-
-        }
-
-
-        public void onPageFinished(WebView view, String url) {
-            //     pullToRefresh.setRefreshing(false);
-
-            invalidateOptionsMenu();
-        }
-
-
-
-    });
-</script>    
-    
-    
-<a href="intent://send?text=Hello#Intent;scheme=whatsapp;package=com.whatsapp;end" class="button">Go to Whatsapp/>    
-    
-    
-    
     
     
     
@@ -124,7 +71,7 @@ window.addEventListener("load",function() {
     
     
     
- <a a="" title="WhatsApp " href="whatsapp://chat.whatsapp.com/JVh1epTpX7HBga1FwkSD7B" class="button5" wa="" awesome="" data-wa=""></a>&nbsp;&nbsp;   
+<a a="" title="WhatsApp " href="whatsapp://chat.whatsapp.com/JVh1epTpX7HBga1FwkSD7B" class="button5" wa awesome data-wa></a>&nbsp;&nbsp;   
 <a a="" title="ВКонтакте" href="http://tr.at.ua/" class="button5" vk="" awesome="" data-vk=""></a>&nbsp;&nbsp;
 <a a="" title="Телеграм " href="http://tr.at.ua/" class="button5" tw="" awesome="" data-te=""></a>&nbsp;&nbsp;
 <a a="" title="WhatsApp " href="https://chat.whatsapp.com/JVh1epTpX7HBga1FwkSD7B" class="button5" wa="" awesome="" data-wa=""></a>&nbsp;&nbsp;
