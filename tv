@@ -26,7 +26,7 @@
       <p><font color="#94ff00">
                  <h3>Бесплатные каналы портала Samig IPTV</font></h3>
     ]]></description>
-    <playlist_url><![CDATA[http://samigiptv.ucoz.net/050820046718.txt]]></playlist_url> 
+    <playlist_url><![CDATA[http://tr.at.ua/index/0-12]]></playlist_url> 
 </channel>
     <channel>
     <title><![CDATA[<font color="#68db25">Кинотеатр Samig</font>]]></title>
@@ -36,7 +36,7 @@
       <p><font color="#94ff00">
                  <h3></font></h3>
     ]]></description>
-    <playlist_url><![CDATA[https://aztv.github.io/9]]></playlist_url>
+    <playlist_url><![CDATA[https://aztv.github.io/start.xml]]></playlist_url>
 </channel>
  <channel>
     <title><![CDATA[<font color="#68db25">Spider- поисковая система</font>]]></title>
